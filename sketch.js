@@ -79,6 +79,7 @@ function draw(){
     block25.display()
     push()
     text(mouseX +"," + mouseY,mouseX,mouseY)
+    text("Press Space to play again",170,65)
     pop()
 }
 
